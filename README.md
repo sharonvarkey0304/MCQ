@@ -26,4 +26,4 @@ This is a cross-platform mobile application built using **Flutter** and **Dart**
 ## How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/flutter-mcq-app.git](https://github.com/your-username/flutter-mcq-app.git)
+   git clone [https://github.com/your-username/flutter-mcq-app.git](https://github.com/sharonvarkey0304/flutter-mcq-app.git)
